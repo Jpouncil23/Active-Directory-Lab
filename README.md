@@ -20,10 +20,6 @@ The primary objective of this lab was to gain hands-on experience in setting up 
 - Windows Command line 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Here is an overview of the entire lab 
+![Screenshot 2024-03-17 215820](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/bd3dca70-41e0-4201-b037-818f7ce94c5c)
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
