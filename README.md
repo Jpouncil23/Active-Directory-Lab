@@ -16,7 +16,8 @@ The primary objective of this lab was to gain hands-on experience in setting up 
 - oracle Virtual Machine 
 - Powershell
 - windows server
-- windows 10 
+- windows 10
+- Windows Command line 
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
