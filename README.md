@@ -42,6 +42,9 @@ using a PowerShell script I created I can use it to create a list of users on th
 ![VirtualBox_DC_02_06_2024_20_40_59](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/a0479666-8acf-4df9-9e2d-a2876a3e6eef)
 The results of running the script with a list of random users in the directory
 ![VirtualBox_DC_02_06_2024_20_45_49](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/9a5e32f7-87cb-446b-a80b-ea0b0415479f)
+I am now on the Client1 VM and you can see that I am connected to the internal network and able to access the internet 
+![VirtualBox_CLIENT1_02_06_2024_21_23_18](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/ba8b2b08-30e7-456b-9f90-542313173b17)
+
 
 
 
