@@ -30,8 +30,18 @@ Here I am installing the software for active directory domain services
 ![VirtualBox_DC_02_06_2024_18_48_44](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/acd95b21-f3a6-4110-ae22-37f20ad4525d)
 Here I have finished creating the domain and am ready to install
 ![VirtualBox_DC_02_06_2024_19_02_35](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/d28b79e7-4b01-4b27-810a-c992e43c6bfb)
-
-
+once finished I then create an admin user 
+![VirtualBox_DC_02_06_2024_19_27_13](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/77c24c89-a926-4391-a02d-aa698d1059cd)
+Here I am configuring my RAS\NAT
+![VirtualBox_DC_02_06_2024_19_35_34](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/ea842309-940c-4998-a723-090f0e365372)
+![VirtualBox_DC_02_06_2024_20_02_31](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/44a2a0b0-adb6-484e-b3f2-29d9ba4a7eb6)
+Here I am configuring my DHCP server 
+![VirtualBox_DC_02_06_2024_20_09_06](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/ca1bd18f-0af3-4096-9a22-8d6189858f65)
+![VirtualBox_DC_02_06_2024_20_14_26](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/8e7a0d46-5194-470b-88b6-68fa51cceba3)
+using a PowerShell script I created I can use it to create a list of users on the directory 
+![VirtualBox_DC_02_06_2024_20_40_59](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/a0479666-8acf-4df9-9e2d-a2876a3e6eef)
+The results of running the script with a list of random users in the directory
+![VirtualBox_DC_02_06_2024_20_45_49](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/9a5e32f7-87cb-446b-a80b-ea0b0415479f)
 
 
 
