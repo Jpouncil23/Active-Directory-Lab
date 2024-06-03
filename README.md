@@ -44,8 +44,6 @@ The results of running the script with a list of random users in the directory
 ![VirtualBox_DC_02_06_2024_20_45_49](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/9a5e32f7-87cb-446b-a80b-ea0b0415479f)
 I am now on the Client1 VM and you can see that I am connected to the internal network and able to access the internet 
 ![VirtualBox_CLIENT1_02_06_2024_21_23_18](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/ba8b2b08-30e7-456b-9f90-542313173b17)
-
-
-
-
+Here you can see that CLIENT1 is joined with the domain controller allowing me to use any user created on the domain controller to log on to the CLIENT1 VM computer 
+![VirtualBox_DC_02_06_2024_22_01_27](https://github.com/Jpouncil23/Active-Directory-Lab/assets/163768012/5a58b89c-80ec-44fe-b909-0d693f484e9a)
 
